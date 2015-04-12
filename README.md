@@ -3,16 +3,6 @@ Team Commander Kittens
 ---
 
 ```
-o++//::/:/://+++++/+/////::://+ooyyhhhyyyyhdhddddhhhh+hhhhhhhhhhydmdhmmmhyyshdmm
-s+++/:::::ohho/////+/::/:////+++syyyyyyyhhhddhhhhhyyyyhhyhhhddhsddmmmmdhyyhhdddm
-o+//:::/+sss/o:::://///////////+ossyoshhhhshhyyhhhhhhhhhyhhhhhhdddmmddhddddddhdm
-o+//:+:/oo++/::---:::::::::////+syyyyhhhhhhhyyyhhdhhhhyyyhhyhddddhdddddddddddymm
-+/oo+yhs:--:+s:-:-:::-:::::///+oysyyhhhddhhhhhdddddhhyyhsshhhhhhhhdhhdhdhddddddd
-++ssyo+:---::++:--::-:--:::/:/+osyyyhhhhhhhyhhddddhyyhhyyhhyysyyyddydhhhdddddhhd
-syyo+//:---/:+ss:------:::::///+oossshhhshhddddhdddhyyysssoyyyyyhhhhhs.sdhhhhdhd
-yhh++::::--/o+yyo/--------::/:://++syyysyyhhddddhdhhysoo++ososyyhdhhhyhhydhdhhhh
-sod+/:::-:-//ooy+-----------o/++//+o+sssyhyyhhhhdhyhhyo++oooosssyyhhdhhhhhddhhhy
-ooy////::::::/::++:-.--.---//s:o::///+oo+yyhhyhhdhhhyyssooooosssyyyhyhhyhhdhyysy
 ++sso+/:://///::://-..--..`.///---:/+++++osyhhysyysyyyyyysoooosyhysdhhshddhhhyyh
 o+/++/:-:/+o+/:---:..`..-..+o:----:::/://+osssossosyyyyhysssssssyydhhyyyhhhhhhhh
 +/:///::::+/:::--:::-::----:/-.--------:/+ooooooso++ossyhyhhhyyhhyhhyyhyyhhyyhdy

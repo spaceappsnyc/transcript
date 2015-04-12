@@ -11,15 +11,19 @@ public class TextUtils {
 
 		textMesh.text = "";
 
+		Renderer renderer = textMesh.GetComponent<Renderer> ();
+
 		for (int i = 0; i < parts.Length; i++) {
 			textMesh.text += parts[i] + " ";
 			
-			if (textMesh.GetComponent<Renderer>().bounds.extents.x >= maxWidth) {
+			if (renderer.bounds.size.x >= maxWidth) {
 				textMesh.text = builder.TrimEnd() + System.Environment.NewLine + parts[i] + " ";
 			}
 			
 			builder = textMesh.text;
 		}
+
+		textMesh.text = textMesh.text.TrimEnd ();
 	}
 	
 }

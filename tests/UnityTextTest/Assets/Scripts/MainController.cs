@@ -20,7 +20,8 @@ public class MainController : MonoBehaviour {
 	{
 		Debug.Log ("Loaded " + container.Segments.Count + " segments");
 
-		float maxWidth = 0.5f * (canvasBottomRight.x - canvasTopLeft.x);
+		float padding = 0.1f;
+		float maxWidth = (canvasBottomRight.x - canvasTopLeft.x);
 		Vector3 currentPos = new Vector3 (canvasTopLeft.x, canvasTopLeft.y, 0.0f);
 		
 		foreach (Segment segment in container.Segments) {
@@ -31,7 +32,7 @@ public class MainController : MonoBehaviour {
 			textMesh.text = segment.Text;
 			TextUtils.WrapTextMesh(textMesh, maxWidth);
 
-			currentPos.y -= textMesh.GetComponent<Renderer>().bounds.extents.y;
+			currentPos.y -= textMesh.GetComponent<Renderer>().bounds.size.y;
 		}
 	}
 

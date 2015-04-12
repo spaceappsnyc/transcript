@@ -15,6 +15,7 @@ public class JSONLoader<ResultType> {
 		yield return www;
 
 		if (www.error != null) {
+			Debug.Log ("error loading: " + URL);
 			errorCallback (www.error);
 			yield break;
 		}

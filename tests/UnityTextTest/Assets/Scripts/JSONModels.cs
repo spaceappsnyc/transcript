@@ -4,18 +4,20 @@ using Newtonsoft.Json;
 
 public class SegmentContainer
 {
-	[JsonProperty ("segments")]
+	[JsonProperty ("TextItems")]
 	public List<Segment> Segments { get; set; }
 }
 
 public class Segment
 {
-	[JsonProperty ("begin")]
+	// miliseconds
+	[JsonProperty ("Begin")]
 	public float Begin { get; set; }
 
-	[JsonProperty ("end")]
+	// miliseconds
+	[JsonProperty ("End")]
 	public float End { get; set; }
 
-	[JsonProperty ("text")]
+	[JsonProperty ("Quote")]
 	public string Text { get; set; }
 }

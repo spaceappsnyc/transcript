@@ -1,24 +1,1360 @@
 {
-    "segments": [
+    "Name": "Apollo 11 Nixon",
+    "Description": "Nixon Highlight Apollo 11 Mission",
+    "AudioSource": "https://giventocodems.blob.core.windows.net/asset-5310435d-1500-80c3-1df1-f1e4e0c90b74/Nixon3.mp3?sr=b&sv=2014-02-14&st=2015-04-11T13%3A13%3A11Z&se=2015-04-18T14%3A13%3A11Z&sp=r&sig=PmUv41EQqfKGMq5WiFpbulFIq7SsjSPCSd07WALx4ao%3D",
+    "TextItems": [
         {
-            "begin": 0.5,
-            "end": 3.0,
-            "text": "1. Lorem ipsum Eiusmod fugiat labore ex magna ea amet ullamco cupidatat mollit do anim."
+            "Begin": 3400.0,
+            "End": 5480.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "3e1b5433-bdf8-4f78-87a5-7126003d99cb",
+                            "Title": "File:President Nixon Meets the Apollo 11 Astronauts on the Lawn of the ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.VdhKfKLICwoY%2fF8Oa5GY9Q&pid=15.1",
+                            "Query": "Nixon Apollo 11 The president of the united states"
+                        },
+                        {
+                            "Id": "bf5f9496-7c4c-484a-b5ca-f6f732d1d5a8",
+                            "Title": "220px-President_Nixon_welcomes_the_Apollo_11_astronauts_aboard_the_U.S ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts1.mm.bing.net/th?id=JN.pBnJ7mM9GCCV%2fWgKCR82rw&pid=15.1",
+                            "Query": "Nixon Apollo 11 The president of the united states"
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "9c99c045-a301-41c2-8d5f-cf53f6ffb296",
+                            "Title": "Apollo 13 astronauts return after deep space crisis in 1970",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.nydailynews.com/news/national/apollo-13-astronauts-return-deep-space-crisis-1970-article-1.2177667",
+                            "Query": "Nixon Apollo 11 The president of the united states"
+                        },
+                        {
+                            "Id": "13bea494-e2be-4522-bafa-c0eb0903d5f1",
+                            "Title": "Presidents Barack Obama, Raul Castro Meet, Launch New Era of U.S., Cuba Ties",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ktla.com/2015/04/11/presidents-barack-obama-raul-castro-meet-launch-new-era-of-u-s-cuba-ties/",
+                            "Query": "Nixon Apollo 11 The president of the united states"
+                        }
+                    ]
+                }
+            ],
+            "Quote": "The president of the united states"
         },
         {
-            "begin": 3.5,
-            "end": 5.0,
-            "text": "2. Lorem ipsum Non proident enim ullamco Excepteur fugiat non sit laborum ex aute sit fugiat dolore."
+            "Begin": 5480.0,
+            "End": 8980.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": []
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "1bdea151-11f5-461f-a991-82f56b034fe1",
+                            "Title": "The Greatest Achievement by Mankind: Why the Moon Landing Could Never Have Been a Hoax",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.thepeoplesvoice.org/TPV3/Voices.php/2014/01/18/the-greatest-achievement-by-mankind-why-",
+                            "Query": "Nixon Apollo 11 ...now onward likelihood your degrees"
+                        },
+                        {
+                            "Id": "5918a1d7-4790-429a-a3f6-fdcc690c3053",
+                            "Title": "Did a computer glitch contribute to the Columbia tragedy?",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.geek.com/chips/did-a-computer-glitch-contribute-to-the-columbia-tragedy-551768/",
+                            "Query": "Nixon Apollo 11 ...now onward likelihood your degrees"
+                        }
+                    ]
+                }
+            ],
+            "Quote": "...now onward likelihood your degrees"
         },
         {
-            "begin": 5.5,
-            "end": 7.0,
-            "text": "3. Lorem ipsum Est nostrud irure deserunt dolore magna dolor Excepteur anim velit.."
+            "Begin": 13870.0,
+            "End": 16860.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": []
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "632de83d-3214-49aa-85ae-1717d85aa411",
+                            "Title": "Top 10 startling facts about Apollo 11's historic Moon mission",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.dailymail.co.uk/sciencetech/article-1200308/Top-10-startling-facts-Apollo-11s-historic-Moon-mission.html",
+                            "Query": "Nixon Apollo 11 Oder sorry go ahead with the grow the boot"
+                        },
+                        {
+                            "Id": "3aa34b87-6f9f-4c50-9ce9-30db9e1fdfe0",
+                            "Title": "APOLLO LANDING SITES IMAGED BY LRO!",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://blogs.discovermagazine.com/badastronomy/2009/07/17/apollo-landing-sites-imaged-by-lro/",
+                            "Query": "Nixon Apollo 11 Oder sorry go ahead with the grow the boot"
+                        }
+                    ]
+                }
+            ],
+            "Quote": "Oder sorry go ahead with the grow the boot"
         },
         {
-            "begin": 7.5,
-            "end": 10.0,
-            "text": "4. Lorem ipsum Incididunt nisi deserunt eiusmod in officia ut in ea aliquip dolor labore laborum dolore."
+            "Begin": 16860.0,
+            "End": 17360.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "49d92c26-01ea-4e37-a2b0-e1de3b9253a4",
+                            "Title": "The Size of a Conspiracy is Inversely Proportional to the Odds of it ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.NtGoAuI%2fFYrkCzSr0HcT9A&pid=15.1",
+                            "Query": "Nixon Apollo 11 amount."
+                        },
+                        {
+                            "Id": "7a9ad908-34b1-4b20-889f-b95ace7675d6",
+                            "Title": "President Richard Nixon visits Armstrong and his crew while they are ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.N66banTVL%2bCVPfvkJxhMyg&pid=15.1",
+                            "Query": "Nixon Apollo 11 amount."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "c06667ac-5ead-4db8-8a6a-59a3c1703ef6",
+                            "Title": "How President Nixon saved/wrecked the American space program",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.examiner.com/article/how-president-nixon-saved-wrecked-the-american-space-program",
+                            "Query": "Nixon Apollo 11 amount."
+                        },
+                        {
+                            "Id": "ee5f4326-bef1-473f-8d87-c265ad81ff60",
+                            "Title": "Apollo 11: First Men on the Moon",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.space.com/16758-apollo-11-first-moon-landing.html",
+                            "Query": "Nixon Apollo 11 amount."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "amount."
+        },
+        {
+            "Begin": 19410.0,
+            "End": 24320.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "7b3e2588-d9e9-4bb5-8ad0-0c9b9e473ef7",
+                            "Title": "apollo-11-moon-landing-4",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.%2b%2b%2b81L9Bs8cFVLRAplaq5w&pid=15.1",
+                            "Query": "Nixon Apollo 11 Hello, neil and buzz I am talking to you by telephone from the oval room at the"
+                        },
+                        {
+                            "Id": "d513b9a3-f9d6-4f58-8517-cbdb2c83bce8",
+                            "Title": "Apollo 11",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts4.mm.bing.net/th?id=JN.33D4X9Mjp8y0qKh0QGSiFA&pid=15.1",
+                            "Query": "Nixon Apollo 11 Hello, neil and buzz I am talking to you by telephone from the oval room at the"
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "805a7dd0-af08-4b3d-8357-78666144210e",
+                            "Title": "The Speech Nixon Never Gave: What if the Moon Landing Had Failed?",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.dailykos.com/story/2014/11/19/1329484/-The-Speech-Nixon-Never-Gave-What-if-the-Moon-Landing-Had-Failed",
+                            "Query": "Nixon Apollo 11 Hello, neil and buzz I am talking to you by telephone from the oval room at the"
+                        },
+                        {
+                            "Id": "64cd55c1-4e44-46fb-96f8-4c63dfef2d8a",
+                            "Title": "Apollo 11 Moon landing: top quotes from the mission that put man on the Moon",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.telegraph.co.uk/news/science/space/5843299/Apollo-11-moon-landing-top-quotes-from-the-mission-that-put-man-on-the-moon.html",
+                            "Query": "Nixon Apollo 11 Hello, neil and buzz I am talking to you by telephone from the oval room at the"
+                        }
+                    ]
+                }
+            ],
+            "Quote": "Hello, neil and buzz I am talking to you by telephone from the oval room at the"
+        },
+        {
+            "Begin": 24320.0,
+            "End": 24610.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "19d843d8-2c3e-4f8a-be96-9d862517fedb",
+                            "Title": "gty nixon apollo 11 hornet kb 140722 16x9 608 Apollo 11 Astronauts at ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts4.mm.bing.net/th?id=JN.ObTJADe1ycPAiP5FIqyjLQ&pid=15.1",
+                            "Query": "Nixon Apollo 11 white"
+                        },
+                        {
+                            "Id": "8fdccca5-fb52-4d77-b3f0-f43e40a94d23",
+                            "Title": "Nixon Meets the Apollo 11 Astronauts on the Lawn of the White ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.VdhKfKLICwoY%2fF8Oa5GY9Q&pid=15.1",
+                            "Query": "Nixon Apollo 11 white"
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "b42ae837-f160-4ceb-b6df-92bea9779bcf",
+                            "Title": "Apollo 13 astronauts return after deep space crisis in 1970",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.nydailynews.com/news/national/apollo-13-astronauts-return-deep-space-crisis-1970-article-1.2177667",
+                            "Query": "Nixon Apollo 11 white"
+                        },
+                        {
+                            "Id": "ced72a11-bdc7-41c5-8959-b49b84efe5b7",
+                            "Title": "Apollo 11",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.history.com/topics/apollo-11",
+                            "Query": "Nixon Apollo 11 white"
+                        }
+                    ]
+                }
+            ],
+            "Quote": "white"
+        },
+        {
+            "Begin": 24610.0,
+            "End": 29890.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "8c210e20-1bcb-4566-bd68-013ef5fd2ff3",
+                            "Title": "This Certainly Has To Be The Most Historic Telephone Call Ever Made ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts1.mm.bing.net/th?id=JN.DtcxwrMLnpdQx%2bc2kzm94Q&pid=15.1",
+                            "Query": "Nixon Apollo 11 house and this certainly has to be the most historic telephone call ever"
+                        },
+                        {
+                            "Id": "da4b3be5-0bfd-4a86-b0f0-db7cc48455a4",
+                            "Title": "20 1969 the sea of tranquility 7 20 1969 the sea of tranquility",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.%2b%2b%2b81L9Bs8cFVLRAplaq5w&pid=15.1",
+                            "Query": "Nixon Apollo 11 house and this certainly has to be the most historic telephone call ever"
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "97cec80b-3392-477c-b849-3e4179059393",
+                            "Title": "Apollo 11",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.history.com/topics/apollo-11",
+                            "Query": "Nixon Apollo 11 house and this certainly has to be the most historic telephone call ever"
+                        },
+                        {
+                            "Id": "f16b50c2-673e-4918-90ea-8dc0b3149e81",
+                            "Title": "The Speech Nixon Never Gave: What if the Moon Landing Had Failed?",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.dailykos.com/story/2014/11/19/1329484/-The-Speech-Nixon-Never-Gave-What-if-the-Moon-Landing-Had-Failed",
+                            "Query": "Nixon Apollo 11 house and this certainly has to be the most historic telephone call ever"
+                        }
+                    ]
+                }
+            ],
+            "Quote": "house and this certainly has to be the most historic telephone call ever"
+        },
+        {
+            "Begin": 31600.0,
+            "End": 34080.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": []
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "b7be3c2c-db5b-4cb0-82a9-821d6b03e1cc",
+                            "Title": "380813770208: Caps from Apollo recovery carriers",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.collectspace.com/ubb/Forum27/HTML/003933.html",
+                            "Query": "Nixon Apollo 11 It can't during ...probably moi."
+                        },
+                        {
+                            "Id": "f7ea670e-d13e-4dd2-a066-57eb5102a87f",
+                            "Title": "And a few personal notes from D.C.",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.heraldstaronline.com/page/blogs.detail/display/1030/And-a-few-personal-notes-from-D-C-.html",
+                            "Query": "Nixon Apollo 11 It can't during ...probably moi."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "It can't during ...probably moi."
+        },
+        {
+            "Begin": 35860.0,
+            "End": 38540.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "b70da71d-12fe-4c72-8e02-b65ccc55ad3d",
+                            "Title": "For every America[n this has to be the] proudest day of our lives",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts4.mm.bing.net/th?id=JN.dlcXZ9Xu3UCF0SZzuk0VQw&pid=15.1",
+                            "Query": "Nixon Apollo 11 For every ...to be the proudest day"
+                        },
+                        {
+                            "Id": "5d8a46d7-fb79-46df-bf0b-19cee600d700",
+                            "Title": "... and Buzz Aldrin on the moon's surface during the Apollo 11 mission",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts4.mm.bing.net/th?id=HN.608035033101307239&pid=15.1",
+                            "Query": "Nixon Apollo 11 For every ...to be the proudest day"
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "4bfa9d50-4ebd-4505-b8ec-6b0a797b253f",
+                            "Title": "Apollo 13 astronauts return after deep space crisis in 1970",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.nydailynews.com/news/national/apollo-13-astronauts-return-deep-space-crisis-1970-article-1.2177667",
+                            "Query": "Nixon Apollo 11 For every ...to be the proudest day"
+                        },
+                        {
+                            "Id": "945d9542-ef79-49c6-a571-a1d564126eb7",
+                            "Title": "Brian Grazer\u2019s Curious Connections",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.wsj.com/articles/brian-grazers-curious-connections-1428682859",
+                            "Query": "Nixon Apollo 11 For every ...to be the proudest day"
+                        }
+                    ]
+                }
+            ],
+            "Quote": "For every ...to be the proudest day"
+        },
+        {
+            "Begin": 38540.0,
+            "End": 42340.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "9ee3c8a3-15a7-41c0-b3e4-75b304ced010",
+                            "Title": "Ag\u00eancia de Modelos, Festas, Eventos, Promo\u00e7\u00f5es, Produ\u00e7\u00f5es ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts4.mm.bing.net/th?id=JN.DJwWqUjuTES7zda8zSC9mw&pid=15.1",
+                            "Query": "Nixon Apollo 11 of our lives and put people all over the world."
+                        },
+                        {
+                            "Id": "62a2384e-6acc-452b-986c-d168dbb9973c",
+                            "Title": "Ag\u00eancia de Modelos, Festas, Eventos, Promo\u00e7\u00f5es, Produ\u00e7\u00f5es ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.ZtJDkPxJp%2fgiKUJVUjmbVA&pid=15.1",
+                            "Query": "Nixon Apollo 11 of our lives and put people all over the world."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "c3d444cb-6e09-446a-849a-ab2bf22f7556",
+                            "Title": "What If Apollo 11 Failed? President Nixon Had Speech Ready",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.space.com/26604-apollo-11-failure-nixon-speech.html",
+                            "Query": "Nixon Apollo 11 of our lives and put people all over the world."
+                        },
+                        {
+                            "Id": "10e0065b-81b6-46d6-b4ee-c3627f49b14e",
+                            "Title": "Lapping and Nixon: What the future holds for Carlisle Utd",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.timesandstar.co.uk/lapping-and-nixon-what-the-future-holds-for-carlisle-utd-1.1204373",
+                            "Query": "Nixon Apollo 11 of our lives and put people all over the world."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "of our lives and put people all over the world."
+        },
+        {
+            "Begin": 42340.0,
+            "End": 44570.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "634f2de3-8eb5-4854-a1e3-b231b5236343",
+                            "Title": "apollo-11-moon-landing-4",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.%2b%2b%2b81L9Bs8cFVLRAplaq5w&pid=15.1",
+                            "Query": "Nixon Apollo 11 I am sure ...they too ..."
+                        },
+                        {
+                            "Id": "5251ffd6-2ac8-4a5f-be74-7fe7703bb276",
+                            "Title": "... and Buzz Aldrin on the moon's surface during the Apollo 11 mission",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts4.mm.bing.net/th?id=HN.608035033101307239&pid=15.1",
+                            "Query": "Nixon Apollo 11 I am sure ...they too ..."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "8fad7165-2030-4641-93fc-dd0717a25978",
+                            "Title": "Apollo 13 astronauts return after deep space crisis in 1970",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.nydailynews.com/news/national/apollo-13-astronauts-return-deep-space-crisis-1970-article-1.2177667",
+                            "Query": "Nixon Apollo 11 I am sure ...they too ..."
+                        },
+                        {
+                            "Id": "c2d38e0b-28f1-4a29-b675-3ab9491d4231",
+                            "Title": "Golden Anniversary",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://kokomoperspective.com/kp/golden-anniversary/article_bdc2ab98-de08-11e4-b346-1ff86c81c346.html",
+                            "Query": "Nixon Apollo 11 I am sure ...they too ..."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "I am sure ...they too ..."
+        },
+        {
+            "Begin": 47190.0,
+            "End": 49650.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "0fcc63e4-3c6d-4d71-9f5f-d51f210b1408",
+                            "Title": "For President Nixon, in case of Apollo 11 disaster",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts1.mm.bing.net/th?id=JN.mDh0%2fqRNpDCmRYg88M93yA&pid=15.1",
+                            "Query": "Nixon Apollo 11 ...man ...that the."
+                        },
+                        {
+                            "Id": "a0ff3990-14ce-4543-b88f-89bf3fdfbff6",
+                            "Title": "footprint left on the moon by apollo 11 astronaut 1969 apollo 11 ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts4.mm.bing.net/th?id=JN.7AS%2b7Ju6uyzRKKeCPBq%2bOA&pid=15.1",
+                            "Query": "Nixon Apollo 11 ...man ...that the."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "121daccd-1adc-4813-89b0-7350dfd1947e",
+                            "Title": "Here's what NASA plans to do if an astronaut dies in space",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://news.yahoo.com/heres-nasa-plans-astronaut-dies-133418466.html",
+                            "Query": "Nixon Apollo 11 ...man ...that the."
+                        },
+                        {
+                            "Id": "10cea2e6-a89b-4e8d-9e57-b785cd512f8d",
+                            "Title": "Apollo 13 astronauts return after deep space crisis in 1970",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.nydailynews.com/news/national/apollo-13-astronauts-return-deep-space-crisis-1970-article-1.2177667",
+                            "Query": "Nixon Apollo 11 ...man ...that the."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "...man ...that the."
+        },
+        {
+            "Begin": 50690.0,
+            "End": 53330.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "5fca2879-02e4-452c-afbc-154ddb13c544",
+                            "Title": "President Nixon speaks to the Apollo 11 astronauts, 1969. National ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.M02lXqbHVro3fENvD1Pn8w&pid=15.1",
+                            "Query": "Nixon Apollo 11 Because of what you have done."
+                        },
+                        {
+                            "Id": "dc1a0dd8-f198-47eb-9683-b7a8bc104c99",
+                            "Title": "Apollo 11 New York",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.p8CC1CgVjIbyG97gNbO1zw&pid=15.1",
+                            "Query": "Nixon Apollo 11 Because of what you have done."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "1d088201-d247-4c80-9f90-de9edd0dde4c",
+                            "Title": "Here's what NASA plans to do if an astronaut dies in space",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.businessinsider.com/what-if-someone-dies-in-space-2015-4",
+                            "Query": "Nixon Apollo 11 Because of what you have done."
+                        },
+                        {
+                            "Id": "062133a4-2a63-429a-8442-c5e22953c724",
+                            "Title": "Apollo 13 astronauts return after deep space crisis in 1970",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.nydailynews.com/news/national/apollo-13-astronauts-return-deep-space-crisis-1970-article-1.2177667",
+                            "Query": "Nixon Apollo 11 Because of what you have done."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "Because of what you have done."
+        },
+        {
+            "Begin": 53330.0,
+            "End": 58080.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "db5df12b-09e6-4d73-b029-9ac05bd7e13a",
+                            "Title": "President Nixon speaks to the Apollo 11 astronauts, 1969. National ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.M02lXqbHVro3fENvD1Pn8w&pid=15.1",
+                            "Query": "Nixon Apollo 11 The heavens have become a part of man's world."
+                        },
+                        {
+                            "Id": "faf8c43c-26f8-4051-9772-0e0d98bf1db7",
+                            "Title": "crowd gathers to watch the Apollo 11 crew land on the moon.",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.p8CC1CgVjIbyG97gNbO1zw&pid=15.1",
+                            "Query": "Nixon Apollo 11 The heavens have become a part of man's world."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "efe9e9ae-8f2d-4939-b02f-9f28e5825c10",
+                            "Title": "Golden Anniversary",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://kokomoperspective.com/kp/golden-anniversary/article_bdc2ab98-de08-11e4-b346-1ff86c81c346.html",
+                            "Query": "Nixon Apollo 11 The heavens have become a part of man's world."
+                        },
+                        {
+                            "Id": "e4518319-9eac-4ac2-947d-03fa7902dc95",
+                            "Title": "Bill Clinton\u2019s surprising faith: From childhood through Monica Lewinsky, the real story of the president\u2019s belief in God",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.salon.com/2015/04/11/bill_clintons_surprising_faith_from_childhood_through_monica_lewinsky_the_real_story_of_the_presidents_belief_in_god/",
+                            "Query": "Nixon Apollo 11 The heavens have become a part of man's world."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "The heavens have become a part of man's world."
+        },
+        {
+            "Begin": 58080.0,
+            "End": 61170.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "c8878b82-9ba9-433e-821c-76fd83323717",
+                            "Title": "Call from the President",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.s4QqLU7bedychBgVu3Sivw&pid=15.1",
+                            "Query": "Nixon Apollo 11 As you talk to us from the sea of tranquility."
+                        },
+                        {
+                            "Id": "37c9afb0-e3da-4bcc-905f-0bc6d4bd6cb7",
+                            "Title": "President Richard Nixon phones Neil Armstrong and Buzz Aldrin on the ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts1.mm.bing.net/th?id=JN.cIip1Tprux%2bfdExY5CdQ3A&pid=15.1",
+                            "Query": "Nixon Apollo 11 As you talk to us from the sea of tranquility."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "051c91a4-7c19-4b6e-8017-166bea269215",
+                            "Title": "Remember the Astrodome for Concerts, Too",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://blogs.houstonpress.com/rocks/2015/04/remember_the_astrodome_for_con.php",
+                            "Query": "Nixon Apollo 11 As you talk to us from the sea of tranquility."
+                        },
+                        {
+                            "Id": "8435caf1-4bc5-4573-b8f9-4f64499e8638",
+                            "Title": "Apollo 11",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.history.com/topics/apollo-11",
+                            "Query": "Nixon Apollo 11 As you talk to us from the sea of tranquility."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "As you talk to us from the sea of tranquility."
+        },
+        {
+            "Begin": 62920.0,
+            "End": 66020.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "a223f74b-0f6c-4124-af69-04b9d5c65d6a",
+                            "Title": "Apollo 11 New York",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.p8CC1CgVjIbyG97gNbO1zw&pid=15.1",
+                            "Query": "Nixon Apollo 11 It inspires us to redouble our efforts to bring"
+                        },
+                        {
+                            "Id": "22db130f-4193-4cdb-bfad-96eb6a1acdf0",
+                            "Title": "Call from the President",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.s4QqLU7bedychBgVu3Sivw&pid=15.1",
+                            "Query": "Nixon Apollo 11 It inspires us to redouble our efforts to bring"
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "587770c6-5156-4384-8936-a0adad61b0ef",
+                            "Title": "The Speech Nixon Never Gave: What if the Moon Landing Had Failed?",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.dailykos.com/story/2014/11/19/1329484/-The-Speech-Nixon-Never-Gave-What-if-the-Moon-Landing-Had-Failed",
+                            "Query": "Nixon Apollo 11 It inspires us to redouble our efforts to bring"
+                        },
+                        {
+                            "Id": "61780e1b-b42e-42c1-ac5c-e624441594e6",
+                            "Title": "Looking Back At The Giant Leap - Apollo 11",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://articles.dailypress.com/1989-07-20/news/8907200130_1_neil-armstrong-buzz-aldrin-command-module",
+                            "Query": "Nixon Apollo 11 It inspires us to redouble our efforts to bring"
+                        }
+                    ]
+                }
+            ],
+            "Quote": "It inspires us to redouble our efforts to bring"
+        },
+        {
+            "Begin": 66020.0,
+            "End": 68900.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "619520cb-c627-4c7d-9049-a7fa2cb25062",
+                            "Title": "... astronauts, and wished for \".. peace and tranquility on the Earth",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.WYJuXqohZ%2bvVsX62u0cE8Q&pid=15.1",
+                            "Query": "Nixon Apollo 11 peace and tranquility to earth."
+                        },
+                        {
+                            "Id": "48a678da-0025-467d-960b-2f7a7b56563c",
+                            "Title": "photo of President Richard M. Nixon as he telephoned \"Tranquility ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts1.mm.bing.net/th?id=JN.mURg5A2s2%2fTte1BLLdI6Gw&pid=15.1",
+                            "Query": "Nixon Apollo 11 peace and tranquility to earth."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "10c06427-ea60-48b2-b7de-7e5de3caaa6f",
+                            "Title": "Here's what NASA plans to do if an astronaut dies in space",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://finance.yahoo.com/news/heres-nasa-plans-astronaut-dies-133418466.html",
+                            "Query": "Nixon Apollo 11 peace and tranquility to earth."
+                        },
+                        {
+                            "Id": "d95b0a34-c034-4c48-8f8e-ad0dafc412ab",
+                            "Title": "Apollo 11",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.history.com/topics/apollo-11",
+                            "Query": "Nixon Apollo 11 peace and tranquility to earth."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "peace and tranquility to earth."
+        },
+        {
+            "Begin": 70630.0,
+            "End": 72230.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "82d7734b-1ef4-482a-8f74-1e445e0359af",
+                            "Title": "Description Nixon Telephones Armstrong on the Moon - GPN-2000-001672 ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts1.mm.bing.net/th?id=JN.FFdDLkvZ6CZrrjKIPl6qVg&pid=15.1",
+                            "Query": "Nixon Apollo 11 For one priceless moment."
+                        },
+                        {
+                            "Id": "642af975-5740-4cb0-ac73-12c1c5e033f2",
+                            "Title": "go out to smoke without him.So he gave himself a project: make one ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.crJi44iGDAmjRWMFqD5PxA&pid=15.1",
+                            "Query": "Nixon Apollo 11 For one priceless moment."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "4d00fee1-4be2-4dfc-aeee-0b10df4b9412",
+                            "Title": "Apollo 13 astronauts return after deep space crisis in 1970",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.nydailynews.com/news/national/apollo-13-astronauts-return-deep-space-crisis-1970-article-1.2177667",
+                            "Query": "Nixon Apollo 11 For one priceless moment."
+                        },
+                        {
+                            "Id": "95aec639-528d-489f-a4ce-64d3b4e8bd8d",
+                            "Title": "Apollo 11 Astronauts at the White House: Then and Now",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://abcnews.go.com/blogs/politics/2014/07/apollo-11-astronauts-at-the-white-house-then-and-now/",
+                            "Query": "Nixon Apollo 11 For one priceless moment."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "For one priceless moment."
+        },
+        {
+            "Begin": 73470.0,
+            "End": 75770.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "18d968e2-4938-4035-8de3-9617c0b46ce9",
+                            "Title": "For President Nixon, in case of Apollo 11 disaster",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts1.mm.bing.net/th?id=JN.mDh0%2fqRNpDCmRYg88M93yA&pid=15.1",
+                            "Query": "Nixon Apollo 11 And, ...history of man."
+                        },
+                        {
+                            "Id": "d29e8fd5-e273-4de6-bcaf-3f970b71fa6c",
+                            "Title": "Apollo 11 astronauts Neil Armstrong, Michael Collins and Buzz Aldrin ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.HIGGr2OYgEnPjL%2b3z5pL%2bg&pid=15.1",
+                            "Query": "Nixon Apollo 11 And, ...history of man."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "20b550ba-adf0-4165-8b22-a9452aab4dc5",
+                            "Title": "History Colorado brings Apollo 8 to Denver in April",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://blogs.denverpost.com/nerd/2015/04/02/history-colorado-brings-apollo-8-to-denver-in-april/3912/",
+                            "Query": "Nixon Apollo 11 And, ...history of man."
+                        },
+                        {
+                            "Id": "ad8c5c1d-0545-4d9a-8c1f-12029dcccda6",
+                            "Title": "Were Lincoln and Nixon gay? The \u2018history\u2019 book that is dividing America",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.theguardian.com/world/2015/apr/11/were-lincoln-nixon-gay-history-book-divides-america",
+                            "Query": "Nixon Apollo 11 And, ...history of man."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "And, ...history of man."
+        },
+        {
+            "Begin": 75770.0,
+            "End": 79820.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "1e5669cb-3132-4c73-bfe6-f9f1845c3281",
+                            "Title": "Description Nixon Telephones Armstrong on the Moon - GPN-2000-001672 ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts1.mm.bing.net/th?id=JN.FFdDLkvZ6CZrrjKIPl6qVg&pid=15.1",
+                            "Query": "Nixon Apollo 11 All the people on this earth are truly one."
+                        },
+                        {
+                            "Id": "90f924a2-b579-4abd-b5f6-c90a9fe73028",
+                            "Title": "Nixon: The Apollo 11 astronauts meet Richard Nixon while in the ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.9PgYOt75AvQ9sT8EgA2ByA&pid=15.1",
+                            "Query": "Nixon Apollo 11 All the people on this earth are truly one."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "01c25f57-cf0e-4bc7-8ce4-eb1edb721f0f",
+                            "Title": "Here's what NASA plans to do if an astronaut dies in space",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.businessinsider.com/what-if-someone-dies-in-space-2015-4",
+                            "Query": "Nixon Apollo 11 All the people on this earth are truly one."
+                        },
+                        {
+                            "Id": "766f3ce7-e5cf-4f74-9af2-cb6378e29bfb",
+                            "Title": "Professor Hanington's Speaking of Science: The Apollo 13 Disaster",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://elkodaily.com/lifestyles/professor-hanington-s-speaking-of-science-the-apollo-disaster/article_53b45d49-e3fc-5607-8fdd-874f63088d85.html",
+                            "Query": "Nixon Apollo 11 All the people on this earth are truly one."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "All the people on this earth are truly one."
+        },
+        {
+            "Begin": 79820.0,
+            "End": 82820.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "f72b5501-09dd-45d4-aae2-dd260a0b5498",
+                            "Title": "Description Nixon Telephones Armstrong on the Moon - GPN-2000-001672 ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts1.mm.bing.net/th?id=JN.FFdDLkvZ6CZrrjKIPl6qVg&pid=15.1",
+                            "Query": "Nixon Apollo 11 One in their pride in what you have done."
+                        },
+                        {
+                            "Id": "833e2b4b-47bb-4e2a-b13c-b31336a39726",
+                            "Title": "gty apollo 11 nixon wh kb 140722 16x9 608 Apollo 11 Astronauts at the ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts4.mm.bing.net/th?id=JN.MLZ0rVIg4X2D2%2fSygPYg2w&pid=15.1",
+                            "Query": "Nixon Apollo 11 One in their pride in what you have done."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "66bcbb78-d78d-4a4e-a260-42718bb013ab",
+                            "Title": "Guelph was blessed by Apollo Eleven\u2019s magic",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.guelphmercury.com/opinion-story/5538351-guelph-was-blessed-by-apollo-eleven-s-magic/",
+                            "Query": "Nixon Apollo 11 One in their pride in what you have done."
+                        },
+                        {
+                            "Id": "5d00ab09-0c77-4c17-85e0-531f5768b6de",
+                            "Title": "Apollo 11 Astronauts at the White House: Then and Now",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://abcnews.go.com/blogs/politics/2014/07/apollo-11-astronauts-at-the-white-house-then-and-now/",
+                            "Query": "Nixon Apollo 11 One in their pride in what you have done."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "One in their pride in what you have done."
+        },
+        {
+            "Begin": 82820.0,
+            "End": 87010.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "59f6a95e-3d1d-44c5-a2ba-1427aacb5cac",
+                            "Title": "and one in our prayers that you will return safely to Earth,\" Nixon ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.WQmZ%2bdK9MT5KYL9eodf1Vg&pid=15.1",
+                            "Query": "Nixon Apollo 11 And, one in our prayers that you will return safely to"
+                        },
+                        {
+                            "Id": "447c6f80-f81b-4454-90f5-17f5ae3ba61a",
+                            "Title": "gty apollo 11 nixon wh kb 140722 16x9 608 Apollo 11 Astronauts at the ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts4.mm.bing.net/th?id=JN.MLZ0rVIg4X2D2%2fSygPYg2w&pid=15.1",
+                            "Query": "Nixon Apollo 11 And, one in our prayers that you will return safely to"
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "f8ce3d85-5ef5-4ddc-99bf-523cc5c5ca32",
+                            "Title": "Apollo 11 Astronauts at the White House: Then and Now",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://abcnews.go.com/blogs/politics/2014/07/apollo-11-astronauts-at-the-white-house-then-and-now/",
+                            "Query": "Nixon Apollo 11 And, one in our prayers that you will return safely to"
+                        },
+                        {
+                            "Id": "54bd228e-6f06-409f-bd04-a6447f9afa96",
+                            "Title": "Apollo 11: \u201cThat\u2019s one small step for man, one giant leap for mankind.\u201d",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://whnt.com/2014/07/20/apollo-11-thats-one-small-step-for-man-one-giant-leap-for-mankind/",
+                            "Query": "Nixon Apollo 11 And, one in our prayers that you will return safely to"
+                        }
+                    ]
+                }
+            ],
+            "Quote": "And, one in our prayers that you will return safely to"
+        },
+        {
+            "Begin": 87010.0,
+            "End": 87510.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "0df96c4f-e334-48f8-93e8-ada500ec6b8a",
+                            "Title": "nixon greets the returning apollo 11 astronauts the apollo 11 ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.laYkn5%2blV37938XyRXs5%2fw&pid=15.1",
+                            "Query": "Nixon Apollo 11 earth."
+                        },
+                        {
+                            "Id": "1e7eccef-5dca-46fe-a3b1-3577932e1197",
+                            "Title": "footprint left on the moon by apollo 11 astronaut 1969 apollo 11 ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts4.mm.bing.net/th?id=JN.7AS%2b7Ju6uyzRKKeCPBq%2bOA&pid=15.1",
+                            "Query": "Nixon Apollo 11 earth."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "cd5f47eb-4418-4699-912b-142cadf392a2",
+                            "Title": "Apollo 13 astronauts return after deep space crisis in 1970",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.nydailynews.com/news/national/apollo-13-astronauts-return-deep-space-crisis-1970-article-1.2177667",
+                            "Query": "Nixon Apollo 11 earth."
+                        },
+                        {
+                            "Id": "802dc547-b17a-4eea-8db9-03c1fe83218d",
+                            "Title": "Here's what NASA plans to do if an astronaut dies in space",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://finance.yahoo.com/news/heres-nasa-plans-astronaut-dies-133418466.html",
+                            "Query": "Nixon Apollo 11 earth."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "earth."
+        },
+        {
+            "Begin": 98980.0,
+            "End": 100740.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "cab0148e-3dae-4744-8ed4-f28e9740883a",
+                            "Title": "File:President Nixon Meets the Apollo 11 Astronauts on the Lawn of the ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.VdhKfKLICwoY%2fF8Oa5GY9Q&pid=15.1",
+                            "Query": "Nixon Apollo 11 ...the united states but."
+                        },
+                        {
+                            "Id": "80c1d327-516f-4ec9-a4a3-53df74d5ec31",
+                            "Title": "three Apollo 11 crew members inside is unloaded from a United States ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts1.mm.bing.net/th?id=JN.giUKP1uKiqbuohUCEw78jw&pid=15.1",
+                            "Query": "Nixon Apollo 11 ...the united states but."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "dfe55cad-bb02-4a92-b4a5-fc0ac50eb0e6",
+                            "Title": "Apollo 13 astronauts return after deep space crisis in 1970",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.nydailynews.com/news/national/apollo-13-astronauts-return-deep-space-crisis-1970-article-1.2177667",
+                            "Query": "Nixon Apollo 11 ...the united states but."
+                        },
+                        {
+                            "Id": "3b4515ac-80fb-4f3e-b196-bde8699522a9",
+                            "Title": "Tax Day gets complicated for same-sex couples in states that don't recognize their marriages",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.foxbusiness.com/markets/2015/04/11/tax-day-gets-complicated-for-same-sex-couples-in-states-that-dont-recognize/",
+                            "Query": "Nixon Apollo 11 ...the united states but."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "...the united states but."
+        },
+        {
+            "Begin": 104050.0,
+            "End": 104740.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "6d1ce1fe-1c04-4be6-99b7-fec45e590001",
+                            "Title": "apollo management and pliant news",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.G2h%2bTbQgo3YMnp4sfqLLZA&pid=15.1",
+                            "Query": "Nixon Apollo 11 ...coordination."
+                        },
+                        {
+                            "Id": "504da924-4532-4d58-bc1d-629cc8d73ad1",
+                            "Title": "The Apollo 11 crew leaves Kennedy Space Center's Manned Spacecraft ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.BvJjN0%2fZ8guhdW%2b5H6FFsA&pid=15.1",
+                            "Query": "Nixon Apollo 11 ...coordination."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "d9798c34-8199-409b-9047-8a8bda8bfcf9",
+                            "Title": "Greater Kokomo Economic Development announces changes to organizational structure",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://kokomoperspective.com/kp/greater-kokomo-economic-development-announces-changes-to-organizational-structure/article_20a1208e-decf-11e4-9fbb-0fab691d2dda.html",
+                            "Query": "Nixon Apollo 11 ...coordination."
+                        },
+                        {
+                            "Id": "16794f6f-6de1-4eb0-ada7-0229e27e0dfd",
+                            "Title": "Apollo\u2019s Historic Lunar Landing",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://blogs.wsj.com/photojournal/2009/07/17/apollos-historic-lunar-landing/",
+                            "Query": "Nixon Apollo 11 ...coordination."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "...coordination."
+        },
+        {
+            "Begin": 106350.0,
+            "End": 108690.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "26a7af4f-099e-4420-8e88-8bd7fa5ec759",
+                            "Title": "think people love about tiny hands?It\u2019s funny \u2026 I don\u2019t really ...",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.8%2fiU6efUgqDTlI6ENzy4Vg&pid=15.1",
+                            "Query": "Nixon Apollo 11 And, within ...actually are for ..."
+                        },
+                        {
+                            "Id": "4a45a810-5db7-48ae-bd31-5c529b34d3b8",
+                            "Title": "Apollo 11 Astronaut Michael Collins 82 Today",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts1.mm.bing.net/th?id=JN.PIbRyfJ%2bWOzOXc2rXqF4eQ&pid=15.1",
+                            "Query": "Nixon Apollo 11 And, within ...actually are for ..."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "b8b14916-e296-4535-9f56-5ea775daed58",
+                            "Title": "Here's what NASA plans to do if an astronaut dies in space",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://finance.yahoo.com/news/heres-nasa-plans-astronaut-dies-133418466.html",
+                            "Query": "Nixon Apollo 11 And, within ...actually are for ..."
+                        },
+                        {
+                            "Id": "036f9f88-4902-4169-acbc-7f436bb2acd5",
+                            "Title": "Risky Moves in the Game of Life Insurance",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.nytimes.com/2015/04/12/business/dealbook/insurers-bypass-rules-to-add-hidden-risk.html",
+                            "Query": "Nixon Apollo 11 And, within ...actually are for ..."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "And, within ...actually are for ..."
+        },
+        {
+            "Begin": 111030.0,
+            "End": 113140.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "b0653e4e-225c-4dbf-9781-ba36f42b06d8",
+                            "Title": "... vision for the future. It is an honor for us to be able to participate",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.WQmZ%2bdK9MT5KYL9eodf1Vg&pid=15.1",
+                            "Query": "Nixon Apollo 11 Vision for the future of."
+                        },
+                        {
+                            "Id": "be059f10-1dd1-41f0-a619-55efc813c574",
+                            "Title": "... this kind of mid-century vision of the idealized future. You know",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.crJi44iGDAmjRWMFqD5PxA&pid=15.1",
+                            "Query": "Nixon Apollo 11 Vision for the future of."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "542d3024-ac95-432e-bf47-40b206833c49",
+                            "Title": "Future of human space flight: 'Real money is being spent on America's Space Launch System'",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.ibtimes.co.uk/future-human-space-flight-real-money-being-spent-americas-space-launch-system-1495819",
+                            "Query": "Nixon Apollo 11 Vision for the future of."
+                        },
+                        {
+                            "Id": "0ecffcf2-a8f8-4c81-a6a4-84b549d30488",
+                            "Title": "IPG Mediabrands Thailand hires Weerapong Tengprathip from MediaCom to lead third \u2018agency of the future\u2019 brand BPN",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.mumbrella.asia/2015/04/ipg-mediabrands-thailand-hires-weerapong-tengprathip-from-mediacom-to-lead-third-agency-of-the-future-brand-bpn/",
+                            "Query": "Nixon Apollo 11 Vision for the future of."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "Vision for the future of."
+        },
+        {
+            "Begin": 114600.0,
+            "End": 117490.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": [
+                        {
+                            "Id": "1b9d9eec-a63b-4074-a0e5-011ac843d2fb",
+                            "Title": "... future. It is an honor for us to be able to participate here today",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts3.mm.bing.net/th?id=JN.WQmZ%2bdK9MT5KYL9eodf1Vg&pid=15.1",
+                            "Query": "Nixon Apollo 11 apollo able to participate here today."
+                        },
+                        {
+                            "Id": "b4198269-3f2e-40ba-b1f4-f6a0e6a6a5af",
+                            "Title": "Call from the President",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://ts2.mm.bing.net/th?id=JN.s4QqLU7bedychBgVu3Sivw&pid=15.1",
+                            "Query": "Nixon Apollo 11 apollo able to participate here today."
+                        }
+                    ]
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "caca3ab0-9443-4094-9504-9ab29f0e5e2c",
+                            "Title": "Apollo 13 Astronaut Exhibit Re-Launches at Chicago Planetarium",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.space.com/29073-mission-moon-lovell-exhibit-adler.html",
+                            "Query": "Nixon Apollo 11 apollo able to participate here today."
+                        },
+                        {
+                            "Id": "188b35a3-413a-4748-b6e0-cc6c3b9b6a6e",
+                            "Title": "Brian Grazer\u2019s Curious Connections",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.wsj.com/articles/brian-grazers-curious-connections-1428682859",
+                            "Query": "Nixon Apollo 11 apollo able to participate here today."
+                        }
+                    ]
+                }
+            ],
+            "Quote": "apollo able to participate here today."
+        },
+        {
+            "Begin": 119290.0,
+            "End": 124710.0,
+            "Resources": [
+                {
+                    "Type": "Image",
+                    "Items": []
+                },
+                {
+                    "Type": "News",
+                    "Items": [
+                        {
+                            "Id": "56515a9e-6144-4df1-a12a-a85328e0356f",
+                            "Title": "10 Surprising Secrets From Apollo 11\u2019s Historic Moon Landing",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://blogs.discovermagazine.com/d-brief/2014/07/18/10-surprising-secrets-from-apollo-11s-historic-moon-landing/",
+                            "Query": "Nixon Apollo 11 And, thank you very much and I look forward all of ...forward ...on thursday"
+                        },
+                        {
+                            "Id": "f6371a0e-1b5f-4df1-a635-e33be97be646",
+                            "Title": "Apollo 11 Launch, 45 Year Anniversary Sunday",
+                            "Description": "",
+                            "Type": null,
+                            "Url": "http://www.ozarksfirst.com/story/d/story/apollo-11-launch-45-year-anniversary-sunday/38378/8OcVbtV_90io9PXJC3e-0g",
+                            "Query": "Nixon Apollo 11 And, thank you very much and I look forward all of ...forward ...on thursday"
+                        }
+                    ]
+                }
+            ],
+            "Quote": "And, thank you very much and I look forward all of ...forward ...on thursday"
         }
     ]
 }

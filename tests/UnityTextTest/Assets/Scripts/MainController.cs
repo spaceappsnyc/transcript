@@ -4,10 +4,7 @@ using Newtonsoft.Json;
 
 [RequireComponent(typeof(TextAnimation))]
 public class MainController : MonoBehaviour {
-
-	public GameObject largeTextPrefab;
-	public Rect bounds;
-
+	
 	JSONLoader<SegmentContainer> loader;
 	TextAnimation textAnimation;
 

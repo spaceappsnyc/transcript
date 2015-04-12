@@ -2,17 +2,27 @@
 using System.Collections;
 using Newtonsoft.Json;
 
+[RequireComponent(typeof(TextAnimation))]
 public class MainController : MonoBehaviour {
 
 	public GameObject largeTextPrefab;
-	public Vector3 canvasTopLeft;
-	public Vector3 canvasBottomRight;
+	public Rect bounds;
 
 	JSONLoader<SegmentContainer> loader;
+	TextAnimation textAnimation;
 
 	void Start ()
 	{
 		loader = new JSONLoader<SegmentContainer> ();
+
+		textAnimation = GetComponent<TextAnimation> ();
+		textAnimation.animationCompleted += AnimationCompleted;
+
+		LoadNextAnimation ();
+	}
+
+	void LoadNextAnimation ()
+	{
 		StartCoroutine (loader.Load ("http://localhost:8000/sample-segments.json", LoadSuccess, LoadError));
 	}
 
@@ -20,23 +30,17 @@ public class MainController : MonoBehaviour {
 	{
 		Debug.Log ("Loaded " + container.Segments.Count + " segments");
 
-		for (int i = 0; i < container.Segments.Count; i++) {
-			Segment segment = container.Segments[i];
-			GameObject gameObject = Instantiate(largeTextPrefab);
-
-			TextMesh textMesh = gameObject.GetComponent<TextMesh>();
-			textMesh.text = segment.Text;
-			textMesh.transform.parent = transform;
-		}
-		
-		float maxWidth = (canvasBottomRight.x - canvasTopLeft.x);
-		TextMesh[] textMeshes = GetComponentsInChildren<TextMesh> ();
-		TextUtils.LayoutTextMeshes (textMeshes, canvasTopLeft, maxWidth);
+		textAnimation.StartAnimation (container);
 	}
 
 	void LoadError (string error)
 	{
 		Debug.Log ("Error loading files: " + error);
+	}
+
+	void AnimationCompleted (TextAnimation animation)
+	{
+		LoadNextAnimation ();
 	}
 
 }

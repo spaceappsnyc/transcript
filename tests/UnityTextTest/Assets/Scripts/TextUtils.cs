@@ -26,19 +26,13 @@ public class TextUtils {
 		textMesh.text = textMesh.text.TrimEnd ();
 	}
 
-	public static void LayoutTextMeshes (TextMesh[] textMeshes, float maxWidth)
+	public static void LayoutTextMeshes (TextMesh[] textMeshes, Vector3 topLeft, float maxWidth)
 	{
-		float maxWidth = (canvasBottomRight.x - canvasTopLeft.x);
-		Vector3 currentPos = new Vector3 (canvasTopLeft.x, canvasTopLeft.y, 0.0f);
+		Vector3 currentPos = new Vector3 (topLeft.x, topLeft.y, 0.0f);
 		
-		foreach (Segment segment in container.Segments) {
-			GameObject gameObject = Instantiate(largeTextPrefab);
-			gameObject.transform.position = new Vector3(currentPos.x, currentPos.y, currentPos.z);
-			
-			TextMesh textMesh = gameObject.GetComponent<TextMesh>();
-			textMesh.text = segment.Text;
+		foreach (TextMesh textMesh in textMeshes) {
+			textMesh.gameObject.transform.position = new Vector3(currentPos.x, currentPos.y, currentPos.z);
 			TextUtils.WrapTextMesh(textMesh, maxWidth);
-			
 			currentPos.y -= textMesh.GetComponent<Renderer>().bounds.size.y;
 		}
 	}

@@ -20,20 +20,7 @@ public class MainController : MonoBehaviour {
 	{
 		Debug.Log ("Loaded " + container.Segments.Count + " segments");
 
-		float padding = 0.1f;
-		float maxWidth = (canvasBottomRight.x - canvasTopLeft.x);
-		Vector3 currentPos = new Vector3 (canvasTopLeft.x, canvasTopLeft.y, 0.0f);
-		
-		foreach (Segment segment in container.Segments) {
-			GameObject gameObject = Instantiate(largeTextPrefab);
-			gameObject.transform.position = new Vector3(currentPos.x, currentPos.y, currentPos.z);
 
-			TextMesh textMesh = gameObject.GetComponent<TextMesh>();
-			textMesh.text = segment.Text;
-			TextUtils.WrapTextMesh(textMesh, maxWidth);
-
-			currentPos.y -= textMesh.GetComponent<Renderer>().bounds.size.y;
-		}
 	}
 
 	void LoadError (string error)

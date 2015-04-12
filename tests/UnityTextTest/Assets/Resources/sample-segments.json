@@ -1,0 +1,24 @@
+{
+    "segments": [
+        {
+            "begin": 0.5,
+            "end": 3.0,
+            "text": "Lorem ipsum Eiusmod fugiat labore ex magna ea amet ullamco cupidatat mollit do anim."
+        },
+        {
+            "begin": 3.5,
+            "end": 5.0,
+            "text": "Lorem ipsum Non proident enim ullamco Excepteur fugiat non sit laborum ex aute sit fugiat dolore."
+        },
+        {
+            "begin": 5.5,
+            "end": 7.0,
+            "text": "Lorem ipsum Est nostrud irure deserunt dolore magna dolor Excepteur anim velit.."
+        },
+        {
+            "begin": 7.5,
+            "end": 10.0,
+            "text": "Lorem ipsum Incididunt nisi deserunt eiusmod in officia ut in ea aliquip dolor labore laborum dolore."
+        }
+    ]
+}
